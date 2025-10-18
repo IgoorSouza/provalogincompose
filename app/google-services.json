@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790584070587",
+    "project_id": "provalogincompose",
+    "storage_bucket": "provalogincompose.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790584070587:android:0e058f0172338887f0b49e",
+        "android_client_info": {
+          "package_name": "com.igor.provalogincompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXkwhtFv-ddUs-ZKYHGiKmPmJCwwqiV9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
